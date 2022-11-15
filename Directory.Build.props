@@ -1,0 +1,13 @@
+<Project>
+    <PropertyGroup>
+        <PackageReferenceQWERTY>ZXCVB</PackageReferenceQWERTY>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Newtonsoft.Json" Version="12.0.3">
+            <PrivateAssets>All</PrivateAssets>
+        </PackageReference>
+
+        <PackageReference Include="AutoMapper" Version="10.1.1"/>
+    </ItemGroup>
+</Project>
